@@ -4,9 +4,7 @@
 ### iKanColleCommand Tweaked Version (繁體中文)
 系統要求：iOS / iPadOS 11.4以上
 
-[Release 2.5.1 IPA下載](https://github.com/ming900518/KC2CHT/releases/download/Release2.5.1/1.0.TW.CHT-Release2.5.1.ipa)
-
-[Release 2.5.1 IPA下載（相容性最佳化）](https://github.com/ming900518/KC2CHT/releases/download/Release2.5.1/1.0.TW.CHT-Release2.5.1-bigger.ipa)
+[Release 2.5.2 IPA下載](https://github.com/ming900518/KC2CHT/releases/download/Release2.5.2/1.0.TW.CHT-Release2.5.2.ipa)
 
 [官方網站](https://kc2tweaked.github.io/)（越獄用戶從這裡可以加入軟體源，非越獄用戶也有AltStore專用安裝連結！）
 
