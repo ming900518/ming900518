@@ -1,6 +1,6 @@
 # 歡迎！這裡可以幫你節省一點時間！
 
-## 還有在更新中的App
+## 還有在更新的App
 
 ### iKanColleCommand Tweaked Version (繁體中文)
 系統要求：iOS / iPadOS 11.4以上
