@@ -33,3 +33,5 @@ System Requirement：at least iOS / iPadOS 11.4
 [連結](https://mingchang137.tk/CompTIA-Security-Plus-Study-Notes/)
 ### 用Microsoft帳號在M1 Mac上跑原生（arm64）的Minecraft
 [連結](https://gist.github.com/tanmayb123/d55b16c493326945385e815453de411a#gistcomment-3642910)
+### 其他小文章
+[連結](https://mingchang137.tk/articles/)
