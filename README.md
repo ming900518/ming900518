@@ -3,7 +3,7 @@
 ## App
 
 ### macOS Virtual Machine
-系統要求：macOS 12以上
+系統要求：macOS 12以上，必須使用Apple Silicon Mac
 
 [Repository連結](https://github.com/ming900518/macOS-Virtual-Machine)
 
