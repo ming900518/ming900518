@@ -2,6 +2,11 @@
 
 ## App
 
+### macOS Virtual Machine
+系統要求：macOS 12以上
+
+[Repository連結](https://github.com/ming900518/macOS-Virtual-Machine)
+
 ### iKanColleCommand Tweaked Version (繁體中文)
 系統要求：iOS / iPadOS 11.4以上
 
