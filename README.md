@@ -1,5 +1,3 @@
-# 歡迎！這裡可以幫你節省一點時間！
-
 ## App
 
 ### macOS Virtual Machine
@@ -31,7 +29,17 @@ System Requirement：at least iOS / iPadOS 11.4
 
 [Release 2.2.1 IPA File Download](https://github.com/ming900518/KC2ENG/releases/download/Release2.2.1/1.0.ENG-Release2.2.1.ipa)
 
+## Plugin
+
+### Commander of Leek（韭菜總司令）
+應該只要是新版JetBrains IDE都能裝
+
+[JetBrains Marketplace](https://plugins.jetbrains.com/plugin/17599-commander-of-leek)
+
+[Repository連結](https://github.com/ming900518/commander-of-leek)
+
 ## 教學文
+
 ### CompuTIA Security+筆記
 [連結](https://mingchang137.tk/CompTIA-Security-Plus-Study-Notes/)
 ### 用Microsoft帳號在M1 Mac上跑原生（arm64）的Minecraft
