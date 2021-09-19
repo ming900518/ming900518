@@ -1,4 +1,4 @@
-## App
+# App
 
 ### macOS Virtual Machine
 系統要求：macOS 12以上，必須使用Apple Silicon Mac
@@ -29,7 +29,7 @@ System Requirement：at least iOS / iPadOS 11.4
 
 [Release 2.2.1 IPA File Download](https://github.com/ming900518/KC2ENG/releases/download/Release2.2.1/1.0.ENG-Release2.2.1.ipa)
 
-## Plugin
+# Plugin
 
 ### Commander of Leek（韭菜總司令）
 應該只要是新版JetBrains IDE都能裝
@@ -38,7 +38,7 @@ System Requirement：at least iOS / iPadOS 11.4
 
 [Repository連結](https://github.com/ming900518/commander-of-leek)
 
-## 教學文
+# 教學文
 
 ### CompuTIA Security+筆記
 [連結](https://mingchang137.tk/CompTIA-Security-Plus-Study-Notes/)
