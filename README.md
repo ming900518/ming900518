@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ming Chang</h1>
 <h3 align="center">A passionate Backend & MIS Engineer from Taiwan</h3>
 
-- 👨‍💻 My personal website [https://mingchang.tw](mingchang.tw)
+- 👨‍💻 My personal website [https://mingchang.tw](https://mingchang.tw)
 
 - 📝 I regularly write articles on [https://mingchang.tw/articles/](https://mingchang.tw/articles/)
 
