@@ -17,7 +17,7 @@
     </thead>
     <tbody>
     <tr>
-        <td align="left" width="60%">
+        <td align="left" width="40%">
             <h3 align="left">Connect with me:</h3>
             <p align="left">
                 <a href="https://twitter.com/mingchang137" target="blank"><img align="center"
@@ -55,7 +55,7 @@
                     src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
                     height="40"/> </a></p>
         </td>
-        <td align="right" width="50%">
+        <td align="right" width="60%">
             <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img align="center"
                      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ming900518&hide=SCSS,HTML,CSS&langs_count=10&exclude_repo=BlockHound,RestfulTool,Webflux%2DStreaming%2DService,KC2CHT,KC2ENG,iKanColleCommand,Foodie%2DMRT%2DMap,Instagram%2DCatalyst"/>
