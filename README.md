@@ -58,7 +58,7 @@
         <td align="right" width="60%">
             <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img align="center"
-                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ming900518&hide=SCSS,HTML,CSS&langs_count=10&exclude_repo=BlockHound,RestfulTool,Webflux%2DStreaming%2DService,KC2CHT,KC2ENG,iKanColleCommand,Foodie%2DMRT%2DMap,Instagram%2DCatalyst"/>
+                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ming900518&hide=SCSS,HTML,CSS&langs_count=10&exclude_repo=circular-cup,BlockHound,RestfulTool,Webflux%2DStreaming%2DService,KC2CHT,KC2ENG,iKanColleCommand,Foodie%2DMRT%2DMap,Instagram%2DCatalyst"/>
             </a>
         </td>
     </tr>
