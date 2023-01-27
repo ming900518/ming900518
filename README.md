@@ -1,7 +1,7 @@
-<table align="center" width="100%">
+<table align="center">
     <thead>
     <tr>
-        <th colspan="2" width="100%">
+        <th colspan="2">
             <h1 align="center">Hi 👋, I'm Ming Chang</h1>
             <h3 align="center">A passionate Backend & MIS Engineer from Taiwan</h3>
             <p>
@@ -17,7 +17,7 @@
     </thead>
     <tbody>
     <tr>
-        <td align="left" width="40%">
+        <td align="left">
             <h3 align="left">Connect with me:</h3>
             <p align="left">
                 <a href="https://twitter.com/mingchang137" target="blank"><img align="center"
@@ -54,12 +54,6 @@
                     width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
                     height="40"/> </a></p>
-        </td>
-        <td align="right" width="60%">
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img align="center"
-                     src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ming900518&hide=SCSS,HTML,CSS&langs_count=10&exclude_repo=circular-cup,BlockHound,RestfulTool,Webflux%2DStreaming%2DService,KC2CHT,KC2ENG,iKanColleCommand,Foodie%2DMRT%2DMap,Instagram%2DCatalyst"/>
-            </a>
         </td>
     </tr>
     </tbody>
