@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ming Chang</h1>
 <h3 align="center">A passionate Backend & MIS Engineer from Taiwan</h3>
 
-- 🌱 I’m currently learning **Rust (Axum, Yew, wasm-bindgen, Tokio)**
+- 🌱 I’m currently learning **Rust, Scala**
 
 - 📝 I regularly write articles on [https://mingchang.tw](https://mingchang.tw)
 
@@ -25,9 +25,6 @@
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
     </a> 
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
-        </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
         </a>
@@ -86,4 +83,5 @@
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
         </a>
-    </p>
+    <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
+</p>
